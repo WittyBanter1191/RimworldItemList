@@ -16,22 +16,7 @@
 
 .tab button:hover {
     background-color: #cccccc;
-}
 
-.tabContent {
-    display: none;
-    animation: fadeEffect 320ms;
-    border-top: none;
-}
-
-@keyframes fadeEffect {
-    from {
-        opacity: 0;
-    }
-
-    to {
-        opacity: 1;
-    }
 }
 
 .search {
@@ -80,7 +65,7 @@ span.metadata {
     color: #5a5454;
 }
 
-@media screen and (max-width: break) {
+@media screen (max-width: break) {
   th.priceWithData {
     font-size: 0.9em;
   }
@@ -98,7 +83,7 @@ span.metadata {
   }
 }
 
-@media screen and (max-width: sm-break) {
+@media screen (max-width: sm-break) {
   th.priceWithData {
     font-size: 0.85em;
   }
