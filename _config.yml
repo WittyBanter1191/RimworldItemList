@@ -3,7 +3,7 @@ title: "Witty Banter's Rimworld Buy List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list.
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: '/WittysRimworldItemList' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'WittyBanter1191'
 github_username: ''
